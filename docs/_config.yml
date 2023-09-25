@@ -1,21 +1,19 @@
 # Set theme
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
-title: Yuya Tinnefeld
+title: Kai Ishihara
 
-author: Yuya Tinnefeld
+author: Kai Ishihara
 
 navbar-links:
   About: "/aboutme"
-  CV: "/files/cv.pdf"
   Blog: "/blog/main"
-  職務経歴: "/files/cv.pdf"
 
 social-network-links:
-  email: "yuyatinnefeld@gmail.com"
-  github: yuyatinnefeld
+  email: "1272004@g.iuhw.ac.jp"
+  github: 
 
-url-pretty: "yuyatinnefeld.github.io"
+url-pretty: "kai-ishihara-site.github.io"
 
 site-css:
   - "/assets/css/custom-styles.css"

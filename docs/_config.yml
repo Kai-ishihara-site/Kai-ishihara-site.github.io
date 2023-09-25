@@ -6,12 +6,12 @@ title: Kai Ishihara
 author: Kai Ishihara
 
 navbar-links:
-  About: "/aboutme"
+  About: "/about/en"
+  自己紹介: "/about/jp"
   Blog: "/blog/main"
 
 social-network-links:
   email: "1272004@g.iuhw.ac.jp"
-  github: 
 
 url-pretty: "kai-ishihara-site.github.io"
 

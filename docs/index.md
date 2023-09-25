@@ -11,7 +11,7 @@ layout: home
 	</div>
 	<div class="home-info-text">
 		<h1>Kai Ishihara</h1>
-		<h3 style="font-weight: 0;">Kümmere dich um deinen Körper. Es ist der einzige Ort, den du zum Leben hast.</h3>
+		<h3 style="font-weight: 0;">Hallo ich bin Kai!</h3>
 	</div>
 
 	<h2>About me</h2>

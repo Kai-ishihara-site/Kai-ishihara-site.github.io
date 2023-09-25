@@ -1,9 +1,8 @@
-# yuyatinnefeld.github.io
+# kai-ishihara-site.github.io
 
-- About: Resume & Blog site
+- About: My personal website
 - Hostserver: Github Page
-- Github Page Domain: https://yuyatinnefeld.github.io
-- Main Domain: https://yuyatinnefeld.com
+- Github Page Domain: https://kai-ishihara-site.github.io
 - Main Branch: gh-pages
 - SSL: GitHub Pages site with HTTPS
 - Website Template: https://beautifuljekyll.com

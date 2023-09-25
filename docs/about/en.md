@@ -4,7 +4,7 @@ layout: page
 
 <div class="home-info-container">
 	<div class="home-img-container">
-		<img src="/images/kai-profile.png">
+		<img style="max-width: 120%;" src="/images/kai-profile.png">
 	</div>
 	<div class="home-info-text">
 		<h1>Kai Ishihara</h1>

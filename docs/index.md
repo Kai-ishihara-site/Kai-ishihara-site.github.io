@@ -13,7 +13,7 @@ layout: home
 		<h1>Kai Ishihara</h1>
 		<h3 style="font-weight: 0;">Hallo ich bin Kai!</h3>
 	</div>
-</div>
+</div><br>
 
 <h2>About me</h2>
 

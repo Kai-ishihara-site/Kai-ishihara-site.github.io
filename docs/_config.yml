@@ -19,7 +19,7 @@ site-css:
   - "/assets/css/custom-styles.css"
 
 # Personalize colors
-navbar-col: "#a4c3ed"
+navbar-col: "#ada4ed"
 navbar-text-col: "#3f3d3d"
 navbar-border-col: "transparent"
 page-col: "#FFFFFF"

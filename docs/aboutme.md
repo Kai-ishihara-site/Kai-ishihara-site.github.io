@@ -8,7 +8,7 @@ layout: page
 	</div>
 	<div class="home-info-text">
 		<h1>Kai Ishihara</h1>
-		<h2 style="font-weight: 0;">Kümmere dich um deinen Körper. Es ist der einzige Ort, den du zum Leben hast.</h2>
+		<h3 style="font-weight: 0;">Kümmere dich um deinen Körper. Es ist der einzige Ort, den du zum Leben hast.</h3>
 	</div>
 </div><br>
 

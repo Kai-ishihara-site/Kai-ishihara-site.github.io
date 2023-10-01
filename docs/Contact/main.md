@@ -1,3 +1,3 @@
-Get in touch
+# Get in touch
 
-<a class="button" href="mailto:email@email.de">Kontakt</a>
+<a class="button" href="mailto:1272004@g.iuhw.ac.jp">Contact me!</a>

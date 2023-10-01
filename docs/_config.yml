@@ -9,6 +9,7 @@ navbar-links:
   About: "/about/en"
   自己紹介: "/about/jp"
   Blog: "/blog/main"
+  Contact: "/Contact/main"
 
 social-network-links:
   email: "1272004@g.iuhw.ac.jp"

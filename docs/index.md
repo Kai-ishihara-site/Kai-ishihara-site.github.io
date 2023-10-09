@@ -7,7 +7,7 @@ layout: home
 
 <div class="home-info-container">
 	<div class="home-img-container">
-		<img style="/images/IMG_2371.jpeg">
+		<img style="/images/kai-profile.png">
 	</div>
 	<div class="home-info-text">
 		<h1>Kai Ishihara</h1>

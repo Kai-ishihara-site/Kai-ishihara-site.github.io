@@ -7,11 +7,11 @@ layout: home
 
 <div class="home-info-container">
 	<div class="home-img-container">
-		<img style="/images/kai-profile.png">
+		<img style="max-width: 120%;" src="/images/kai-profile.png">
 	</div>
 	<div class="home-info-text">
 		<h1>Kai Ishihara</h1>
-		<h3 style="font-weight: 0;">Hallo, ich bin Kai!</h3>
+		<h3 style="font-weight: 0;">Hallo, Ich bin Kai!</h3>
 	</div>
 </div><br>
 
